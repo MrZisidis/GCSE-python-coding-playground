@@ -1,0 +1,11 @@
+Aduki,400,2.85
+Green lentils,500,3.99
+Buckwheat,500,4.99
+Fenugreek,125,2.49
+Red clover,100,2.99
+Mung beans,500,2.99
+Radish,125,2.99
+Chickpeas,750,2.99
+Beetroot,100,5.2
+Broccoli,125,4.79
+Alfalfa,125,2.49
